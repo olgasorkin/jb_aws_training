@@ -50,7 +50,6 @@ terraform/
 ├── variables.tf     # Input variables
 ├── outputs.tf       # Outputs (IP, SSH command, SG ID, etc.)
 ├── providers.tf     # Provider configuration
-├── .gitignore       # Files excluded from Git tracking
 └── README.md        # Project documentation
 ```
 
